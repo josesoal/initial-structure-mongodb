@@ -9,6 +9,6 @@
   "author": "Jose Soncco",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "mongoose": "^5.9.15"
+    "mongoose": "^5.13.15"
   }
 }
